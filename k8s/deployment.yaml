@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: go-web-app
-        image: deerendra/devopspractise
+        image: deerendra19/devopspractise
         ports:
         - containerPort: 8080
